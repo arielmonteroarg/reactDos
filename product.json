@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "RIDING PHOTO",
+    "category": "Fundas",
+    "description": "Phone Case - Fox",
+    "price": 10.00,
+    "image": "./img/img1.webp"
+  },
+  {
+    "id": 2,
+    "title": "Samsung",
+    "category": "Fundas",
+    "description": "Phone Case - Fox",
+    "price": 9.99,
+    "image": "./img/img2.webp"
+  },
+  {
+    "id": 3,
+    "title": "FASTHOUSE",
+    "category": "Fundas",
+    "description": "Phone Case - Fox",
+    "price": 9.99,
+    "image": "./img/img3.webp"
+  },
+  {
+    "id": 4,
+    "title": "Samsung",
+    "category": "STICKER",
+    "description": "Phone Case - Fox",
+    "price": 29.99,
+    "image": "./img/sticker1.webp"
+  },
+  {
+    "id": 5,
+    "title": "Xiaomi",
+    "category": "STICKER",
+    "description": "Phone Case - Fox",
+    "price": 44.99,
+    "image": "./img/sticker2.webp"
+  },
+  {
+    "id": 6,
+    "title": "Oppo",
+    "category": "STICKER",
+    "description": "Phone Case - Fox",
+    "price": 34.99,
+    "image": "./img/sticker3.webp"
+  },
+  {
+    "id": 7,
+    "title": "Motorola",
+    "category": "LLAVERO",
+    "description": "Phone Case - Fox",
+    "price": 34.99,
+    "image": "./img/llavero1.webp"
+  },
+  {
+    "id": 8,
+    "title": "Huawei",
+    "category": "LLAVERO",
+    "description": "Phone Case - Fox",
+    "price": 44.99,
+    "image": "./img/llavero2.webp"
+  },
+  {
+    "id": 9,
+    "title": "Realme",
+    "category": "LLAVERO",
+    "description": "Phone Case - Fox",
+    "price": 29.99,
+    "image": "./img/llavero3.webp"
+  }
+]
